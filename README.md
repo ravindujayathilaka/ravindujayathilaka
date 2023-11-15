@@ -28,8 +28,3 @@
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_2017-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wijesekara12&show_icons=true&locale=en&layout=compact" alt="wijesekara12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wijesekara12&show_icons=true&locale=en" alt="wijesekara12" /></p>
