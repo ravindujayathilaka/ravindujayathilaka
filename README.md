@@ -28,6 +28,8 @@
 <br/>
 <br/>
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ravindujayathilaka&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
 [![Ravindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravindujayathilaka&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
